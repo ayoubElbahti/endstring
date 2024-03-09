@@ -1,0 +1,2 @@
+# endstring
+String ends with?
